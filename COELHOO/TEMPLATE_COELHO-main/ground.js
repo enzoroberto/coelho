@@ -9,5 +9,5 @@ class Ground {
 
         World.add(world, this.body)
     }
-    //display ();
+   
 }
